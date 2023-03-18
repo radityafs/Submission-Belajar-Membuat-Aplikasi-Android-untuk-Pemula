@@ -1,0 +1,116 @@
+<resources>
+    <string name="app_name">News App</string>
+    <string name="title">News Feed</string>
+    <string name="news_type">Newest</string>
+    <string name="profile">Profile</string>
+    <string name="background">Background</string>
+    <string name="back_button">Back Button</string>
+    <string name="author">Author</string>
+    <string name="author_time">4 Hrs later</string>
+    <string name="news_description">The availability of low-cost flights and last minute internet deals means that cheap holidays are far easier to come by than they used to be, but it can still take a bit of shopping around to get the best discounts.\n\n The availability of low-cost flights and last minute internet deals means that cheap holidays are far easier to come by than they used to be, but it can still take a bit of shopping around to get the best discounts. \n\nThe availability of low-cost flights and last minute internet deals means that cheap holidays are far easier to come by than they used to be, but it can still take a bit of shopping around to get the best discounts.</string>
+    <string name="category">Category</string>
+    <string name="created_at">RBC News - 1 Jam Yang Lalu</string>
+    <string name="app_author">Raditya Firman Syaputra</string>
+    <string name="app_image_author">https://media.licdn.com/dms/image/C5603AQHaAvp4gc1H5A/profile-displayphoto-shrink_800_800/0/1660845427545?e=1683763200&amp;v=beta&amp;t=IKcSE5z-KD2tyewLQGJRHZKB7Ye_8mcWWvXehq8hYI0</string>
+    <string name="share_button">Share Item</string>
+    <string name="sub_title">Temukan, Baca dan bagikan berita sekarang juga</string>
+    <string name="comments">Comments : </string>
+    <string name="comments_author">Elaina Anisa</string>
+    <string name="date_comment_news">11 Januari 2023</string>
+    <string name="comment">Masukan Ulasan Berita ini...</string>
+    <string name="send">Send</string>
+    <string name="app_email">radit@student.uns.ac.id</string>
+
+    <string-array name="data_title_news">
+        <item>Presiden Jokowi Ajak Warga Indonesia Perangi Covid-19</item>
+        <item>Indonesia Raih Medali Emas di Olimpiade Tokyo 2021</item>
+        <item>Masyarakat Desa di Indonesia Mulai Terbiasa Transaksi Digital</item>
+        <item>Universitas Terbaik di Indonesia 2023: UI, ITB, dan UGM Masuk 3 Besar</item>
+        <item>Prancis Buka Perpustakaan Digital Gratis untuk Seluruh Dunia</item>
+        <item>Apple Luncurkan iPhone Baru dengan Fitur Kamera Lebih Canggih</item>
+        <item>Ekonomi Global Pulih, Pertumbuhan Ekonomi Indonesia Diperkirakan Naik 5,5% di Tahun 2024</item>
+        <item>Konsumsi Kopi di Indonesia Naik 5% Setiap Tahun, Produsen Kopi Berlomba-Lomba Berinovasi</item>
+        <item>Para Ilmuwan Temukan Bintang Terdekat dengan Sistem Planet Mirip Bumi</item>
+        <item>Perusahaan Startup Indonesia Raih Pendanaan Seri A Sebesar 10 Juta Dolar AS</item>
+    </string-array>
+
+    <string-array name="data_description_news">
+        <item>Deskripsi berita Presiden Jokowi Ajak Warga Indonesia Perangi Covid-19: Presiden Joko Widodo mengajak seluruh warga Indonesia untuk bersama-sama memerangi pandemi Covid-19 dengan mematuhi protokol kesehatan dan melakukan vaksinasi. Dalam pidatonya, Presiden Jokowi juga menekankan pentingnya kerja sama dan solidaritas untuk mengatasi pandemi ini. Selain itu, dia juga memastikan bahwa pemerintah akan terus berupaya meningkatkan kapasitas rumah sakit dan mendistribusikan vaksin secara merata di seluruh Indonesia.</item>
+        <item>Deskripsi berita Indonesia Raih Medali Emas di Olimpiade Tokyo 2021: Atlet bulutangkis Indonesia, Ginting Anthony, berhasil meraih medali emas di Olimpiade Tokyo 2021 setelah mengalahkan wakil China di final. Ini merupakan prestasi yang membanggakan bagi Indonesia, dan mengulangi kesuksesan tim bulutangkis Indonesia dalam meraih medali di ajang Olimpiade sebelumnya. Selain itu, Indonesia juga meraih sejumlah medali perak dan perunggu dalam ajang tersebut.</item>
+        <item>Deskripsi berita Masyarakat Desa di Indonesia Mulai Terbiasa Transaksi Digital: Di tengah pandemi Covid-19, masyarakat di pedesaan di Indonesia mulai mengadopsi transaksi digital sebagai alternatif dalam berbelanja dan bertransaksi. Hal ini ditunjukkan dengan meningkatnya penggunaan aplikasi dan platform e-commerce di kalangan masyarakat pedesaan. Meskipun masih terdapat sejumlah kendala dalam hal konektivitas dan literasi digital, perkembangan ini menunjukkan bahwa digitalisasi ekonomi di Indonesia terus berkembang dan semakin merata.</item>
+        <item>Deskripsi berita Universitas Terbaik di Indonesia 2023: UI, ITB, dan UGM Masuk 3 Besar: Menurut peringkat universitas yang dikeluarkan oleh Times Higher Education pada tahun 2023, Universitas Indonesia (UI), Institut Teknologi Bandung (ITB), dan Universitas Gadjah Mada (UGM) berhasil masuk dalam jajaran 3 universitas terbaik di Indonesia. Peringkat ini mencerminkan kualitas pendidikan tinggi di Indonesia yang semakin meningkat dan bersaing dengan universitas-universitas terkemuka di dunia.</item>
+        <item>Deskripsi berita Prancis Buka Perpustakaan Digital Gratis untuk Seluruh Dunia: Pemerintah Prancis membuka perpustakaan digital gratis yang memungkinkan akses ke koleksi buku, majalah, dan media audio-visual untuk seluruh pengguna di seluruh dunia. Inisiatif ini diharapkan dapat mempromosikan kebebasan berpikir, budaya, dan pluralisme, serta meningkatkan akses publik terhadap sumber daya intelektual dan kultural.</item>
+        <item>Deskripsi berita Prancis Buka Perpustakaan Digital Gratis untuk Seluruh Dunia: Pemerintah Prancis membuka perpustakaan digital gratis yang memungkinkan akses ke koleksi buku, majalah, dan media audio-visual untuk seluruh pengguna di seluruh dunia. Inisiatif ini diharapkan dapat mempromosikan kebebasan berpikir, budaya, dan pluralisme, serta meningkatkan akses publik terhadap sumber daya intelektual dan kultural. Perpustakaan digital ini merupakan proyek ambisius yang melibatkan banyak institusi dan pengarang di Prancis, dan memungkinkan pengguna untuk mengakses sejumlah koleksi terkenal, seperti Les Misérables karya Victor Hugo dan Madame Bovary karya Gustave Flaubert. Selain itu, perpustakaan digital ini juga menawarkan akses ke sejumlah karya seni dan musik, seperti karya-karya Impressionis yang terkenal.</item>
+        <item>Deskripsi berita Apple Luncurkan iPhone Baru dengan Fitur Kamera Lebih Canggih: Apple merilis produk iPhone terbaru dengan fitur kamera yang lebih canggih, termasuk kemampuan merekam video berkualitas sinematik dan pengambilan gambar dalam kondisi cahaya rendah yang lebih baik. Selain itu, iPhone terbaru ini juga dilengkapi dengan teknologi pengisian daya nirkabel yang lebih cepat dan tahan air hingga kedalaman tertentu. Peluncuran iPhone terbaru ini diharapkan dapat mempertahankan posisi Apple sebagai pemimpin pasar ponsel pintar dan meningkatkan daya tarik perusahaan terhadap konsumen yang semakin menuntut fitur-fitur canggih dan inovatif.</item>
+        <item>Deskripsi berita Ekonomi Global Pulih, Pertumbuhan Ekonomi Indonesia Diperkirakan Naik 5,5% di Tahun 2024: Seiring dengan pulihnya ekonomi global setelah krisis akibat pandemi Covid-19, pertumbuhan ekonomi Indonesia diperkirakan akan naik sebesar 5,5% pada tahun 2024. Dalam beberapa tahun terakhir, Indonesia telah berhasil menunjukkan pertumbuhan ekonomi yang stabil meskipun terdapat beberapa tantangan dalam hal perekonomian nasional. Diperkirakan bahwa pertumbuhan ekonomi di sektor industri manufaktur dan sektor jasa akan menjadi faktor utama dalam meningkatkan pertumbuhan ekonomi Indonesia di masa mendatang.</item>
+        <item>Deskripsi berita Konsumsi Kopi di Indonesia Naik 5% Setiap Tahun, Produsen Kopi Berlomba-Lomba Berinovasi: Konsumsi kopi di Indonesia terus meningkat sebanyak 5% setiap tahunnya, dan hal ini mendorong produsen kopi untuk berlomba-lomba dalam melakukan inovasi dan pengembangan produk. Beberapa produsen kopi di Indonesia bahkan mulai mengembangkan kopi organik dan kopi spesial yang dihasilkan dari petani lokal. Selain itu, mereka juga memperluas jangkauan pasar mereka melalui platform e-commerce dan membuka kedai kopi dengan konsep yang unik dan berbeda. Hal ini menunjukkan bahwa industri kopi di Indonesia semakin berkembang dan semakin banyak menawarkan pilihan bagi konsumen kopi.</item>
+        <item>Deskripsi berita Para Ilmuwan Temukan Bintang Terdekat dengan Sistem Planet Mirip Bumi: Sebuah tim ilmuwan berhasil menemukan bintang terdekat yang memiliki sistem planet yang mirip dengan Bumi. Bintang bernama Tau Ceti ini terletak sekitar 12 tahun cahaya dari Bumi, dan memiliki 4 planet yang berada di dalam zona layak huni. Meskipun belum diketahui dengan pasti apakah planet-planet tersebut memiliki kehidupan atau tidak, penemuan ini dianggap sebagai kemajuan signifikan dalam penelitian eksoplanet dan dapat membantu untuk lebih memahami potensi kehidupan di luar Bumi.</item>
+        <item>Deskripsi berita Perusahaan Startup Indonesia Raih Pendanaan Seri A Sebesar 10 Juta Dolar AS: Sebuah perusahaan startup di Indonesia berhasil meraih pendanaan seri A sebesar 10 juta dolar AS dari sejumlah investor. Pendanaan ini akan digunakan untuk memperluas bisnis dan pengembangan produk yang lebih inovatif. Perusahaan startup tersebut adalah salah satu contoh dari semakin berkembangnya ekosistem startup di Indonesia, yang didukung oleh dukungan pemerintah dan semakin meningkatnya minat investor terhadap potensi bisnis di Indonesia. Diharapkan bahwa keberhasilan perusahaan startup ini dapat memberikan inspirasi dan memotivasi lebih banyak lagi pengusaha muda di Indonesia untuk mengembangkan bisnis dan inovasi di berbagai sektor.</item>
+    </string-array>
+
+    <string-array name="data_image_news">
+        <item>https://cdn.antaranews.com/cache/800x533/2020/03/26/WhatsApp-Image-2020-03-26-at-21.23.04.jpeg</item>
+        <item>https://asset.kompas.com/crops/k_L1dL_tDdrBfCZKEkCW8xolc6Q=/0x1:3890x2594/750x500/data/photo/2021/08/02/6107d234e368b.jpg</item>
+        <item>https://cdn.antaranews.com/cache/800x533/2022/06/13/desa-wisata-395.png</item>
+        <item>https://asset.kompas.com/crops/j_qAbddDCXc3VU79Deg0VmL40VI=/23x0:1083x707/750x500/data/photo/2020/11/30/5fc478425dad8.png</item>
+        <item>https://pahamidulu.com/wp-content/uploads/2023/01/LIHATLAH-Surga-pecinta-buku-Perpustakaan-Nasional-Prancis-dibuka-kembali.jpg</item>
+        <item>https://images.bisnis.com/posts/2021/09/15/1442834/iphone-13-kamera.jpg</item>
+        <item>https://ugm.ac.id/galleries/crop/13808--730x420px.jpg</item>
+        <item>https://swamediainc.storage.googleapis.com/swa.co.id/wp-content/uploads/2019/11/01173745/Konsumsi-Kopi-Indonesia.png</item>
+        <item>https://awsimages.detik.net.id/visual/2022/04/25/proxima_169.webp?w=400&amp;q=90</item>
+        <item>https://asset.kompas.com/crops/UQZ1mZ-EwNNipICz3Sbt7lZ2lHc=/0x0:0x0/750x500/data/photo/2020/07/22/5f1729f9a10da.jpg</item>
+    </string-array>
+
+    <string-array name="data_author_image_news">
+        <item>https://randomuser.me/api/portraits/thumb/men/0.jpg</item>
+        <item>https://randomuser.me/api/portraits/thumb/men/1.jpg</item>
+        <item>https://randomuser.me/api/portraits/thumb/men/2.jpg</item>
+        <item>https://randomuser.me/api/portraits/thumb/men/3.jpg</item>
+        <item>https://randomuser.me/api/portraits/thumb/men/4.jpg</item>
+        <item>https://randomuser.me/api/portraits/thumb/men/5.jpg</item>
+        <item>https://randomuser.me/api/portraits/thumb/men/6.jpg</item>
+        <item>https://randomuser.me/api/portraits/thumb/men/7.jpg</item>
+        <item>https://randomuser.me/api/portraits/thumb/men/8.jpg</item>
+        <item>https://randomuser.me/api/portraits/thumb/men/9.jpg</item>
+    </string-array>
+
+    <string-array name="data_author_news">
+        <item>Rini Wijayanti</item>
+        <item>Andi Gunawan</item>
+        <item>Sinta Dewi</item>
+        <item>Budi Setiawan</item>
+        <item>Julie Leclerc</item>
+        <item>Ahmad Firdaus</item>
+        <item>Ridwan Rahman</item>
+        <item>Adi Nugraha</item>
+        <item>Dian Pratiwi</item>
+        <item>Yudi Hartono</item>
+    </string-array>
+
+    <string-array name="data_created_at_news">
+        <item>08:30 WIB, 7 Maret 2023</item>
+        <item>10:15 WIB, 7 Maret 2023</item>
+        <item>12:00 WIB, 7 Maret 2023</item>
+        <item>14:30 WIB, 7 Maret 2023</item>
+        <item>16:45 WIB, 7 Maret 2023</item>
+        <item>08:30 WIB, 8 Maret 2023</item>
+        <item>10:15 WIB, 8 Maret 2023</item>
+        <item>12:00 WIB, 8 Maret 2023</item>
+        <item>14:30 WIB, 8 Maret 2023</item>
+        <item>16:45 WIB, 8 Maret 2023</item>
+    </string-array>
+
+    <string-array name="data_category_news">
+        <item>Berita Nasional</item>
+        <item>Olahraga</item>
+        <item>Teknologi</item>
+        <item>Pendidikan</item>
+        <item>Budaya</item>
+        <item>Teknologi</item>
+        <item>Ekonomi</item>
+        <item>Gaya Hidup</item>
+        <item>Sains</item>
+        <item>Startup</item>
+    </string-array>
+
+</resources>
